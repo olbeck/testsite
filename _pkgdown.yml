@@ -1,4 +1,4 @@
-url: ~
+url: https://olbeck.github.io/testsite/
 destination: docs
 template:
   bootstrap: 5
